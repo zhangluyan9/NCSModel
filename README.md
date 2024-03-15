@@ -1,6 +1,7 @@
 # Integrating Deep Learning and Synthetic Biology: A Co-Design Approach for Enhancing Gene Expression via N-terminal Coding Sequences
 
-
+## Pretrain Weight:
+https://drive.google.com/file/d/1hSF1koilfAenR3lV_jMwAZh6sOszlDTm/view?usp=share_link
 
 ## License & Copyright
 This is a free software: you can redistribute it and/or modify it under the terms of GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
